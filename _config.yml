@@ -1,0 +1,7 @@
+# Site settings
+title: Kevin M. Moerman
+description: Biomechanical & Design Engineer
+keywords: Biomechanical & Design Engineer
+author: KevinMoerman
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site

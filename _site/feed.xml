@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Kevin M. Moerman</title>
+        <description>Biomechanical &amp; Design Engineer</description>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self"
+        type="application/rss+xml"/>
+        <pubDate>Mon, 22 May 2017 22:07:36 -0400</pubDate>
+        <lastBuildDate>Mon, 22 May 2017 22:07:36 -0400</lastBuildDate>
+        <generator>Jekyll v3.4.3</generator>
+        
+        <item>
+            <title>About me</title>
+            <description>&lt;p&gt;&lt;a href=&quot;https://kevinmoerman.files.wordpress.com/2015/10/kmm_profile_crop.jpg {width=100px height=100px}&quot;&gt;&lt;img src=&quot;https://kevinmoerman.files.wordpress.com/2015/10/kmm_profile_crop.jpg?&quot; alt=&quot;KMM_profile_crop&quot; width=&quot;175px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://orcid.org/0000-0003-3768-4269&quot;&gt;&lt;img src=&quot;https://orcid.org/sites/default/files/images/orcid_24x24.png&quot; alt=&quot;Kevin M. Moerman's ORCID profile&quot; height=&quot;36px&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://www.impactstory.org/u/0000-0003-3768-4269&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/4/4a/Impactstory-logo-2014.png&quot; alt=&quot;Kevin M. Moerman's Impactstory profile&quot; height=&quot;36px&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://nl.linkedin.com/in/kevin-mattheus-moerman-98923831&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png&quot; alt=&quot;Kevin M. Moerman's LinkedIn profile&quot; height=&quot;36px&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://twitter.com/KMMoerman&quot;&gt;&lt;img src=&quot;https://g.twimg.com/Twitter_logo_blue.png&quot; alt=&quot;Follow @KMMoerman on twitter&quot; height=&quot;36px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;strong&gt;K.M. Moerman&lt;/strong&gt;&lt;/span&gt; &lt;em&gt;Ph.D. M.Sc. B.Eng.&lt;/em&gt; 
+&lt;em&gt;Program Manager Mechanical Interfaces, Research Scientist&lt;/em&gt; 
+Center for Extreme Bionics | MIT | Media Lab 75 Amherst Street | Room E14-274G | Cambridge, MA 02139 &lt;strong&gt;&lt;a href=&quot;mailto:kmoerman@mit.edu&quot;&gt;kmoerman@mit.edu&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;cv&quot;&gt;CV&lt;/h2&gt;
+
+&lt;p&gt;Download CV here: &lt;a href=&quot;https://kevinmoerman.files.wordpress.com/2017/04/cv_kevinmoerman.pdf&quot;&gt;CV_KevinMoerman&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;biography&quot;&gt;Biography&lt;/h2&gt;
+
+&lt;p&gt;Kevin M. Moerman is a biomechanical and design engineer. After completing a Bachelor in Mechanical Engineering he worked as a design engineer of agricultural robotic systems. He then decided to pursue a Master’s degree in Bioengineering at Trinity College Dublin to learn how to apply his engineering skills in understanding and augmenting the human body. His final thesis focused on the finite element analysis of blast induced brain injury relevant to the design of protective headgear. Being fascinated by the union of fundamental science, engineering, and advanced computational methods he stayed at Trinity College to obtain a PhD in Bioengineering. The topic of the PhD was the creation of a framework for the non-invasive analysis of the mechanical properties of human soft tissue, with relevance to impact biomechanics and crash safety. The success of his PhD relied heavily on his broad engineering background. The work included the development and validation of novel experimental MRI equipment, sensors, and imaging methodologies. However it also involved the creation of a rigorous mathematical and 3D computational modelling framework for the investigation of muscle tissue mechanical behaviour. Following his PhD he started as a post-doctoral research fellow at the Academic Medical Centre in Amsterdam (2011-2015), working on new techniques to understand and prevent pressure ulcer development. His subsequent postdoctoral experience was at the MIT Media Lab’s Biomechatronics group where he worked on novel methods for automated design of prosthetic sockets. He is current Research Scientist at the MIT Media Lab’s Biomechatronics group where he leads the research track on mechanical interfaces. Kevin also holds a visiting research fellow position at Trinity College Dublin collaborating on computational modelling of soft tissue mechanical behaviour. Kevin has shared his work at international conferences and is often involved in the organization of special sessions and workshops. During his academic career he has amassed a wealth of computational tools for image-based modelling and inverse finite element analysis, resulting in the creation of his GIBBON open-source software project which he maintains on a voluntary basis. Kevin currently resides in Lexington, MA, USA, with his wife and two sons. For further details on education, employment history and publications see the &lt;a href=&quot;http://orcid.org/0000-0003-3768-4269&quot;&gt;ORCID&lt;/a&gt;, and &lt;a href=&quot;https://nl.linkedin.com/pub/kevin-mattheus-moerman/31/238/989&quot;&gt;LinkedIn&lt;/a&gt;, profile pages.&lt;/p&gt;
+</description>
+            <pubDate>Tue, 16 May 2017 00:00:00 -0400</pubDate>
+            <link>http://localhost:4000#/2017/05/16/Aboutme.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2017/05/16/Aboutme.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>The GIBBON project</title>
+            <description>&lt;h1 id=&quot;the-geometry-and-image-based-bioengineering-add-on&quot;&gt;The Geometry and Image-Based Bioengineering add-On&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.gibboncode.org&quot;&gt;GIBBON&lt;/a&gt; is an open-source toolbox for MATLAB developed by &lt;a href=&quot;https://www.linkedin.com/pub/kevin-mattheus-moerman/31/238/989&quot; title=&quot;Kevin M. Moerman&quot;&gt;Kevin M. Moerman&lt;/a&gt; and includes an array of image and geometry visualization and processing tools and is interfaced with free open source software such as &lt;a href=&quot;http://www.tetgen.org/&quot;&gt;TetGen&lt;/a&gt;, for robust tetrahedral meshing, and &lt;a href=&quot;http://www.febio.org/&quot;&gt;FEBio&lt;/a&gt; for finite element analysis. The combination provides a highly flexible image-based modelling environment and enables advanced inverse finite element analysis. 
+&lt;img src=&quot;https://kevinmoerman.files.wordpress.com/2015/10/gibbon_overview.png&quot; alt=&quot;GIBBON_overview&quot; width=&quot;700px&quot; /&gt;&lt;/p&gt;
+</description>
+            <pubDate>Mon, 16 May 2016 00:00:00 -0400</pubDate>
+            <link>http://localhost:4000#/2016/05/16/GIBBON.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2016/05/16/GIBBON.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>Gallery of computation</title>
+            <description>&lt;h1 id=&quot;the-geometry-and-image-based-bioengineering-add-on&quot;&gt;The Geometry and Image-Based Bioengineering add-On&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.gibboncode.org&quot;&gt;GIBBON&lt;/a&gt; is an open-source toolbox for MATLAB developed by &lt;a href=&quot;https://www.linkedin.com/pub/kevin-mattheus-moerman/31/238/989&quot; title=&quot;Kevin M. Moerman&quot;&gt;Kevin M. Moerman&lt;/a&gt; and includes an array of image and geometry visualization and processing tools and is interfaced with free open source software such as &lt;a href=&quot;http://www.tetgen.org/&quot;&gt;TetGen&lt;/a&gt;, for robust tetrahedral meshing, and &lt;a href=&quot;http://www.febio.org/&quot;&gt;FEBio&lt;/a&gt; for finite element analysis. The combination provides a highly flexible image-based modelling environment and enables advanced inverse finite element analysis. 
+&lt;img src=&quot;https://kevinmoerman.files.wordpress.com/2015/10/gibbon_overview.png&quot; alt=&quot;GIBBON_overview&quot; width=&quot;700px&quot; /&gt;&lt;/p&gt;
+</description>
+            <pubDate>Sat, 16 May 2015 00:00:00 -0400</pubDate>
+            <link>http://localhost:4000#/2015/05/16/GalleryOfComputation.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2015/05/16/GalleryOfComputation.html</guid>
+            
+            
+        </item>
+        
+    </channel>
+</rss>

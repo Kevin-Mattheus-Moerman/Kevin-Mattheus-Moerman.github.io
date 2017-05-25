@@ -4,7 +4,7 @@ subtitle: "CV and Biography"
 author: "KevinMoerman"
 avatar: "img/authors/kmm.jpg"
 image: "img/LatticeStructure.jpg"
-date:   2017-24-16
+date:   2017-05-24
 ---
 
 [![KMM_profile_crop](https://kevinmoerman.files.wordpress.com/2015/10/kmm_profile_crop.jpg?){:width="175px"}](https://kevinmoerman.files.wordpress.com/2015/10/kmm_profile_crop.jpg {width=100px height=100px})

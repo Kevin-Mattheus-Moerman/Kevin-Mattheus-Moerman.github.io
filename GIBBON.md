@@ -1,0 +1,12 @@
+---
+layout: page
+title: "The GIBBON project"
+logo: "img/home-bg.jpg"
+description: "The Geometry and Image-Based Bioengineering add-On"
+header-img: "img/home-bg.jpg"
+---
+
+# GIBBON: The Geometry and Image-Based Bioengineering add-On
+
+[GIBBON](http://www.gibboncode.org) is an open-source toolbox for MATLAB developed by [Kevin M. Moerman](https://www.linkedin.com/pub/kevin-mattheus-moerman/31/238/989 "Kevin M. Moerman") and includes an array of image and geometry visualization and processing tools and is interfaced with free open source software such as [TetGen](http://www.tetgen.org/), for robust tetrahedral meshing, and [FEBio](http://www.febio.org/) for finite element analysis. The combination provides a highly flexible image-based modelling environment and enables advanced inverse finite element analysis.
+![GIBBON_overview](https://kevinmoerman.files.wordpress.com/2015/10/gibbon_overview.png){:width="700px"}

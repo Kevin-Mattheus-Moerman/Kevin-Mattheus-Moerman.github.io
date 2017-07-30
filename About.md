@@ -9,11 +9,11 @@ header-img: "img/home-bg.jpg"
 [![Kevin Moerman](img/member_avatars/kmm_profile_crop.jpg){:width="213px"}](https://www.kevinmoerman.org)   
 [![Email](/img/icons/email_icon.png){:height="25px"}](mailto:kmoerman@mit.edu)
 [![GitHub](img/icons/github-icon.png){:height="25px"}](https://github.com/Kevin-Mattheus-Moerman)
-[![ORCID](img/icons/orcid.png){:height="25px"}](http://orcid.org/0000-0003-3768-4269)
+[![ORCID](img/icons/orcid.png){:height="25px"}](https://orcid.org/0000-0003-3768-4269)
 [![Impactstory](img/icons/impactStory.png){:height="25px"}](https://www.impactstory.org/u/0000-0003-3768-4269)
 [![Twitter](img/icons/twitter.png){:height="25px"}](https://twitter.com/KMMoerman)
 [![LinkedIn](img/icons/linkedin.png){:height="25px"}](https://www.linkedin.com/in/kevin-moerman-98923831)
-[![CV](img/icons/cvIcon.png){:height="25px"}](pdf/cv.pdf)   
+[![CV](img/icons/cvIcon.png){:height="25px"}](https://kevinmoerman.org/pdf/cv.pdf)   
 <span style="font-size: 12px;">
 **K.M. Moerman** _Ph.D. M.Sc. B.Eng._   
 _Research Scientist, Program Manager Mechanical Interfaces_   

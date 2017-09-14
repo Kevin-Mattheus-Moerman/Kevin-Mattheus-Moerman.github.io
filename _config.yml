@@ -31,13 +31,16 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 # Jekyll Settings
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "projects"
       type: "pages"
     values:
       layout: "project"
       header-img: "img/home-bg.jpg"
+  - scope:
+      path: "img/gallery"
+    values:
+      image: true
 
 # Prose Settings
 prose:

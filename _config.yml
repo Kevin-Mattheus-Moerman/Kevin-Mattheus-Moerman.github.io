@@ -19,7 +19,7 @@ email_address: kmoerman@mit.edu
 #disqus_shortname: GIBBON
 #g-analytics: UA-75881392-1
 altmetric: true
-
+  
 # Build settings
 gems: [jekyll-paginate]
 markdown: kramdown

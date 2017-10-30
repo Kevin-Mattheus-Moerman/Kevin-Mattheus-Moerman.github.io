@@ -16,5 +16,8 @@ header-img: "img/home-bg.jpg"
 [![The Journal of Open Hardware](/img/JOH_banner.png){:width="50%"}](https://openhardware.metajnl.com/)
 
 ## Workshops
-* Host, co-organizer: [Mozilla Science Lab Boston Working Open Workshop, August 3-4, 2017](https://mozillascience.github.io/WOW-Boston/)
-* Host, organizer: [Open Source Tools for Computational Biomechanics (IEEE Boston), September, 15, 2016](http://ieeeboston.org/open-source-tools-computational-biomechanics/)
+* Host, co-organizer: [Mozilla Science Lab Boston Working Open Workshop, August 3-4, 2017](https://mozillascience.github.io/WOW-Boston/)   
+[![MozillaScienceBostonWOW](/img/mozilla-science-lab-logo.png){:width="50%"}](https://mozillascience.github.io/WOW-Boston/)
+
+* Host, organizer: [Open Source Tools for Computational Biomechanics (IEEE Boston), September, 15, 2016](http://ieeeboston.org/open-source-tools-computational-biomechanics/)   
+[![IEEE Boston workshop](/img/IEEE_Boston.jpg){:width="50%"}](http://ieeeboston.org/open-source-tools-computational-biomechanics/)

@@ -33,16 +33,16 @@ header-img: "img/home-bg.jpg"
  </script>
 
 
-<div class="row" style="padding-bottom: 45px">
+<div class="row" style="padding-bottom: 45px" >
    <ul id="image-gallery" class="gallery list-unstyled cS-hidden">
   {% for image in site.static_files %}
      {% if image.path contains 'img/gallery' %}
 
-       <li data-thumb={{ site.baseurl }}{{ image.path }}>
-           <h3>{{ image.name }}</h3>
-           <a rel="Content license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Website content license" style="border-width:0" src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" /></a>
+       <li data-thumb={{ site.baseurl }}{{ image.path }} style="text-align:center">
+           <img src="{{ site.baseurl }}{{ image.path }}" alt="image" width="50%" align="middle" >
+           </br>
+           <b>{{ image.name }}</b> <a rel="Content license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Website content license" style="border-width:0" src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" /></a>
            <!-- <p>{{ image.path }}</p> -->
-           <img src="{{ site.baseurl }}{{ image.path }}" alt="image" width="100%" align="middle" >
        </li>
 
          <!-- <div  class=" col-md-4 col-xs-12 full" style=" border-width: 0px; margin-top:35px;">

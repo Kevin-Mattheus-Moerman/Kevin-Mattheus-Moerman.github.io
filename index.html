@@ -36,3 +36,6 @@ layout: page
 </ul>
 {% endif %}
 
+
+{% capture my_include %}{% include About.md %}{% endcapture %}
+{{ my_include | markdownify }}

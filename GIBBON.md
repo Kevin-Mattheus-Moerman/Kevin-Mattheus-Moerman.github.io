@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The GIBBON project"
+title: "GIBBON"
 logo: "img/home-bg.jpg"
 description: "The Geometry and Image-Based Bioengineering add-On"
 header-img: "img/home-bg.jpg"

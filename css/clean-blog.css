@@ -66,9 +66,8 @@ hr.small {
   font-weight: 800;
 }
 .navbar-custom .nav li a {
-  text-transform: uppercase;
-  font-size: 11px;
-  font-weight: 500;
+  font-size: 12px;
+  font-weight: 800;
   letter-spacing: normal;
 }
 @media only screen and (min-width: 768px) {
@@ -78,7 +77,8 @@ hr.small {
   }
   .navbar-custom .navbar-brand {
     color: white;
-    padding: 20px;
+    padding: 20px 10px 10px 10px;
+    font-size: 12px;
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
@@ -86,7 +86,7 @@ hr.small {
   }
   .navbar-custom .nav li a {
     color: white;
-    padding: 20px;
+    padding: 20px 10px 10px 10px;
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
@@ -250,7 +250,7 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
-    font-size: 36px;
+    font-size: 30px;
   }
 }
 .section-heading {

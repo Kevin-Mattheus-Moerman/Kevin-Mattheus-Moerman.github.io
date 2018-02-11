@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Honors and Awards"
+title: "Grants/Awards"
 logo: "img/home-bg.jpg"
 description: ""
 header-img: "img/home-bg.jpg"

@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "Grants/Awards"
+title: "Awards"
 logo: "img/home-bg.jpg"
-description: ""
+description: "Grants & Awards"
 header-img: "img/home-bg.jpg"
+ordernumber: 4
 ---
 
 ## Grants

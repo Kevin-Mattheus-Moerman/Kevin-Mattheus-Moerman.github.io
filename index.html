@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagefullwidth
 ---
 {% for post in paginator.posts %}
 <div class="post-preview">
@@ -36,6 +36,15 @@ layout: page
 </ul>
 {% endif %}
 
-
-{% capture my_include %}{% include About.md %}{% endcapture %}
-{{ my_include | markdownify }}
+<div class="row">
+ <div class="col-sm-8">
+   {% capture my_include %}{% include About.md %}{% endcapture %}
+   {{ my_include | markdownify }}
+ </div>
+ <div class="col-sm-4">
+   <center>
+     <a href="https://twitter.com/KMMoerman" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @KMMoerman</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+     <br>
+    <a class="twitter-timeline" data-width="100%" data-height="1200" data-theme="dark" data-link-color="#19CF86" href="https://twitter.com/KMMoerman">Tweets by GibbonToolbox</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ </div>
+</div>

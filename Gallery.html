@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagefullwidth
 title: "Gallery"
 description: "A gallery of computation"
 header-img: "img/home-bg.jpg"
@@ -22,7 +22,7 @@ ordernumber: 7
              vThumbWidth:200,
              keyPress: true,
              speed:1000,
-             pause:4000,
+             pause:5000,
              auto:true,
              loop:true,
              pauseOnHover: true,
@@ -33,16 +33,28 @@ ordernumber: 7
     });
  </script>
 
+ <div class="row">
+  <div class="col-sm-6">
+  <h1>A gallery of computation</h1>
+  In computational mechanics and geometry analysis visualization is key. It is key to develop and test algorithms and iron out any bugs that may be present.
+  However, for me, visualization is more than that, it is also a way to feel a sense of <b> creativity and play </b> while doing serious coding.
+  Staying in a creative and playfull mood I find is the best way to come up with novel and creative solutions to complex problems.
+  Therefore, irrespective of the actual application I often still end up testing codes (for meshing for instance) on a sphere, torus, dinosaur, rabbit, and an elephant.
+</br> Below is an animated gallery of visualizations and images I developed as part of my research.
+Some are of the actual research at hand, some are test graphics used to debug the algorithms,
+some show spectacular bugs and errors which may also make for accidental but entertaining/beautiful computational "art".
+</div>
 
-<div class="row" style="padding-bottom: 45px" >
+<div class="col-sm-6">
    <ul id="image-gallery" class="gallery list-unstyled cS-hidden">
   {% for image in site.static_files %}
      {% if image.path contains 'img/gallery' %}
 
        <li data-thumb={{ site.baseurl }}{{ image.path }} style="text-align:center">
-           <img src="{{ site.baseurl }}{{ image.path }}" alt="image" width="50%" align="middle" >
+           <img src="{{ site.baseurl }}{{ image.path }}" alt="image" width="60%" align="middle" >
            </br>
-           <b>{{ image.name }}</b> <a rel="Content license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Website content license" style="border-width:0" src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" /></a>
+           <b> <a alt="{{ image.name }}" href="{{ site.baseurl }}{{ image.path }}">{{ image.name }}</a> </b>
+           <a rel="Content license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Website content license" style="border-width:0" src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" /></a>
            <!-- <p>{{ image.path }}</p> -->
        </li>
 
@@ -60,4 +72,5 @@ ordernumber: 7
 
 </ul>
 
+</div>
 </div>

@@ -1,6 +1,6 @@
 # Site settings
 title: Kevin Mattheus Moerman
-description: "Biomechanical & Design Engineer"
+description: "Research Scientist, MIT Media Lab"
 url: "https://kevinmoerman.org"
 
 # Secondary Parameters
@@ -10,7 +10,8 @@ headercolor: "#FFFFFF"
 logo: /img/logos/KevinMoerman.png
 
 # Tertiary Parameters
-github_username:  Kevin-Mattheus-Moerman
+github_username: Kevin-Mattheus-Moerman
+googlescholar_url: https://scholar.google.com/citations?user=0Bt1yzgAAAAJ&hl=en
 twitter_username: KMMoerman
 orcid_id: 0000-0003-3768-4269
 impactstory_id: u/0000-0003-3768-4269

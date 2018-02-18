@@ -21,16 +21,6 @@
                   </a>
                 </li>
 
-		            {% for page in site.pages %}
-                  {% if page.url contains "projects/" %}
-                    {% if page.title %}
-                    <li>
-                      <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                    </li>
-                    {% endif %}
-                  {% endif %}
-                {% endfor %}
-
                 {% assign sorted_pages = site.pages | sort:"ordernumber"%}
                 {% for page in sorted_pages %}
                   {% if page.url contains "projects/" %}
@@ -42,6 +32,17 @@
                     {% endif %}
                   {% endif %}
                 {% endfor %}
+
+                {% for page in site.pages %}
+                  {% if page.url contains "projects/" %}
+                    {% if page.title %}
+                    <li>
+                      <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                    </li>
+                    {% endif %}
+                  {% endif %}
+                {% endfor %}
+
             </ul>
         </div>
         <!-- /.navbar-collapse -->

@@ -17,6 +17,6 @@ More details to follow...
 <center>
 <a href="https://openresearchcodeadvocates.github.io/ORCA/"> <img alt="ORCA" style="width:30%;" src="/img/orca_banner.png" /> </a>
 <br>
-<small>The Open Research Code Advocate initiatives</small>
+<small>The Open Research Code Advocates (ORCA) initiative</small>
 </center>
 </div>

@@ -1,4 +1,4 @@
-# About me  
+# About me
 I am a research scientist at the [MIT Media Lab's](https://www.media.mit.edu/) [Biomechatronics group](http://biomech.media.mit.edu/) where I lead the mechanical interfaces research track. My current research is focused on developing novel experimental and computational methods for automated and data-driven design of prosthetic interfaces (see also [Moerman et al. _preprint_](https://engrxiv.org/g8h9n/)).  
 As part of my research I maintain the open source project [GIBBON](https://www.gibboncode.org/) which is a toolbox for computational (bio)mechanics.
 

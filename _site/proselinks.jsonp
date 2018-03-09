@@ -1,0 +1,13 @@
+callback([
+
+  {
+    "text": "Pre-print Automated and Data-driven Computational Design of Patient-Specific Biomechanical Interfaces",
+    "href": "http://localhost:4000/blog/2016/09/19/Socket_preprint/"
+  } ,
+
+  {
+    "text": "Introducing the ORCA initiative",
+    "href": "http://localhost:4000/blog/2017/10/15/Introducing-the-ORCA-initiative/"
+  } 
+
+])

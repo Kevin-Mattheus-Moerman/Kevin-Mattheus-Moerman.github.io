@@ -1,5 +1,6 @@
 # About me
-I am a research fellow at the [National University of Ireland Galway]( http://www.nuigalway.ie/). My research here focusses on computational biomechanics of blood clots and is part of the [INSIST project (In Silico Clinical Trials for Acute Ischemic Stroke)](https://www.insist-h2020.eu).
+I am a computational mechanics and computational design expert. My research interests include computational geometry and design, design optimisation, finite element analysis (FEA), continuum mechanics, meshing, signal and image-processing, robotics and mechatronics, medical device design, generative design, and morphogenesis.
+I am currently Research Fellow at the [National University of Ireland Galway]( http://www.nuigalway.ie/). My research there focusses on computational biomechanics of blood clots and clot occlusion, and is part of the [INSIST project (In Silico Clinical Trials for Acute Ischemic Stroke)](https://www.insist-h2020.eu).
 
 As part of my research I maintain the open source project [GIBBON](https://www.gibboncode.org/) which is a toolbox for computational (bio)mechanics.
 
@@ -22,13 +23,23 @@ I am also a research affiliate with the [MIT Media Lab's](https://www.media.mit.
 </div>
 </div>
 
-# Short bio
+# Short biography
 <div class="row">
 
 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
 <small>
-Kevin M. Moerman is a computational (bio)mechanics and computational design expert. His research interests include soft tissue biomechanics, finite element analysis, continuum mechanics, image-based modeling, image-processing, medical device design, mechanobiology and morphogenesis. He holds a Bachelor degree in Mechanical Engineering, a Master’s degree in Bioengineering and a PhD degree on the topic of soft tissue biomechanics (2012, Trinity College Dublin). Kevin joined the MIT Media Lab’s Biomechatronics group in 2015 as post-doctoral associate and became a Research Scientist in 2017 to lead the group's Computational Biomechanics research track. His research there focussed on computational modeling for automated subject-specific prosthetic socket design. Kevin is now a research fellow at NUI Galway where he works on computational biomechanics of blood clots. Kevin has shared his work at international conferences and is often involved in the organization of special sessions and workshops. During his academic career he has amassed a wealth of computational tools for image-based modeling and inverse finite element analysis, resulting in the creation of the <b><a href="https://www.gibboncode.org/">GIBBON open-source software project</a></b>.    
-<br>
+
+Kevin M. Moerman is a computational mechanics and computational design expert. His research interests include computational geometry and design, design optimisation, finite element analysis (FEA), continuum mechanics, meshing, signal and image-processing, robotics and mechatronics, medical device design, additive manufacturing, generative design and morphogenesis.  
+
+After obtaining a Bachelor degree in Mechanical Engineering (2004, The Hague University of Applied Sciences) he worked in the industry as a robotics design engineer. In 2005 he completed a Master’s degree in Bioengineering at Trinity College Dublin, where he subsequently pursued a PhD degree on the topic of inverse FEA to study soft tissue biomechanics (2012). He received several awards for both his undergraduate and PhD research.
+Following his PhD Kevin was a postdoctoral researcher at the Academical Medical Centre in Amsterdam, where he developed computational and experimental methods for non-invasive pressure ulcer analysis and detection. In 2015 Kevin joined the MIT Media Lab’s Biomechatronics group, where he became a Research Scientist (2017) to lead the group's Computational Biomechanics research track an co-supervise (under)graduate students. His research at MIT focused on computational methods for automated subject-specific prosthetic socket design and design optimisation. These methods were combined with advanced multi-material 3D printing techniques to achieve spatially varying compliance. He also co-authored several grants leading to the group receiving an NIH R01 to further research on prosthetic device design. In 2018 Kevin returned to Ireland. He is now a Research Fellow at NUI Galway, where his research involves the development of constitutive formulations of blood clots, and computational modelling of blood clot occlusion during stroke.
+
+During his academic career Kevin has developed a vast array of tools for computational mechanics, finite element analysis, computational design, meshing, and image and signal processing, which has resulted in the creation of the <b><a href="https://www.gibboncode.org/">GIBBON open-source software project</a></b>. GIBBON is now used worldwide for computational (bio)mechanics, and is often the source of international collaborations.
+
+Kevin has shared his work at international conferences and has chaired and organized many special sessions and workshops. His multidisciplinary nature and ability to collaborate is clear from his publication record which demonstrates works on inverse FEA, continuum mechanics, instrument design, MRI methods, and software development. Furthermore he holds several patents in (agricultural) robotics and (prosthetic) device design.
+
+Besides his academic reputation, Kevin is also a well known advocate for open science and open source software. He is a co-founder and editor for the Journal of Open Source Software, and an editor for the Journal of Open Hardware and the Journal of Open Engineering.  He was also involved in the creation of the Engineering Archive (the now well-established pre-print server for Engineering) and is a member of its steering committee. In 2016 he hosted and organized an IEEE Boston Chapter course open “Open Source Tools for Computational Biomechanics”, and in 2017 he hosted and organized the Boston “Working Open Workshop” together with the Mozilla Science Lab, to teach fellow researchers about the principles of open science.
+
 Kevin currently lives in Galway, Ireland, with his wife and two sons.    
 </small>
 </div>

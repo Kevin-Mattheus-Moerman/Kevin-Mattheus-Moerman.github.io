@@ -2,6 +2,31 @@
 layout: pagefullwidth
 ---
 
+
+<link rel="stylesheet" href="/plugin/mastodon.widget/mastodon.widget.css" />
+<script type="text/javascript" src="/plugin/mastodon.widget/mastodon.widget.js"></script>
+<script>
+$(document).ready(function() {
+// jQUERY is required!
+  var mapi = new MastodonApi({
+    target_selector  : '#myTimeline'
+    ,instance_uri    : 'https://fosstodon.org'
+    ,access_token    : 'DhLt7XdIqPz7mtXui8Jdarf_pAm1dR7yStybrhdlrac'
+    ,account_id      : '109327461745727966'
+    ,boosts_count_icon : '<i class="fa fa-retweet" aria-hidden="true"></i>'
+    ,favourites_count_icon: '<i class="fa fa-star" aria-hidden="true"></i>'
+    // optional parameters
+    // ===================
+    // - status max
+    // ,toots_limit     : 12
+    // - if you are using font-awesome:
+    //,pic_icon        : '<i class="fa fa-picture-o"></i>'
+    // or a picture
+    //,pic_icon        : '<img src="mypicicon.gif" />'
+  });
+});
+</script>
+
 <style>
 
 .card {
@@ -70,9 +95,11 @@ transform: scale(1.05);
 
  </div>
  <div class="col-sm-4">
-   <h1>Twitter</h1>
-     <a href="https://twitter.com/KMMoerman" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @KMMoerman</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-     <br>
-    <a class="twitter-timeline" data-width="100%" data-height="1200" data-theme="dark" data-link-color="#19CF86" href="https://twitter.com/KMMoerman">Tweets by KMMoerman</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+   <h1>Mastodon <a rel="me" href="{{ site.mastodon_url }}"> <img alt="Mastodon profile" style="height:4rem;" src="/img/icons/mastodon.png" /> @kevin.moerman </a> </h1>  
+   
+   <div id="myTimeline" class="mastodon-timeline mastodon-timeline-dark">
+   </div>
+
  </div>
 </div>
+
